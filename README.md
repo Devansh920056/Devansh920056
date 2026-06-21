@@ -1,6 +1,6 @@
 # Hi, I'm Devansh 👋
 
-Final-Year B.E. Artificial Intelligence & Machine Learning Student.
+B.E. Artificial Intelligence & Machine Learning Student
 
 ## Currently Building
 
