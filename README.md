@@ -38,5 +38,5 @@ AI-powered productivity assistant with memory, task management, and intelligent 
 
 ## Connect
 
-- LinkedIn: Coming Soon
-- Portfolio: Coming Soon
+- LinkedIn: www.linkedin.com/in/devanshzode
+- Portfolio: devanshzode.dev
